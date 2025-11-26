@@ -1,0 +1,208 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Poppins;
+
+}
+.barre_de_navigation{
+    display: flex;
+    background-color: rgb(248, 200, 220);
+    justify-content: space-between;
+    padding: 20px;
+    padding-left :60px;
+    padding-right:60px ;
+    align-items: center;
+    padding-top: 0%;
+}
+.partie{
+    display: flex;
+    gap: 15px;
+
+}
+body{
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5dvh;
+}
+.boutton{
+    display: flex;
+    padding: 20px;
+    gap: 20px;
+    justify-content: center;
+
+}
+.btn{
+    margin-top: 5px;
+}
+.logo{
+    margin-top: 5px;
+}
+.réalisation{
+    display: flex;
+    background-color: rgb(247, 241, 235);
+    padding-bottom: 12ch ;
+  
+}
+.para{
+    height:auto;;
+    width: 80%;
+    text-align: center;
+    margin-top:150px ;
+
+}
+.image{
+line-height: 0;
+    padding-left: auto;
+    padding-right:200px;
+height: 100px;
+padding-top: 15px;
+
+}
+.projet{
+    display: flex;
+    justify-content: center;
+    gap: 220px;
+    text-align: center;
+}
+.contenu{
+    justify-content: center;
+    padding-left: 300px;
+    padding-right:300px ;
+    text-align: center;
+    font-size: small;
+}
+.propo{
+    background-color: black;
+    color: aliceblue;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+.h3{
+    margin-left: 560px;
+    margin-right: 80px ;
+
+}
+.p2{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.h{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(250, 177, 211);
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 2px;
+    font-size: large;
+}
+.p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    display:block;
+    vertical-align: top;
+    margin: 0;
+}
+.par{
+justify-content: center;
+}
+.services{
+    text-align: center;
+
+}
+#services{
+    padding:50px ;
+
+}
+.in{
+    display: flex;
+}
+.vid{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+ 
+}
+.rea{
+    text-align: center;
+    align-items: center;
+
+       
+}
+.conteneur{
+padding: 50px;
+background:-o-repeating-linear-gradient(to bottom, pink
+ 25%, red 75%);
+
+}
+.vi{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.icone{
+    display: flex;
+    flex-direction: column;
+    padding: 60px;
+    gap: 20px;
+    text-align: left;
+    padding-top: 30px;
+}
+.pa{
+    
+    text-align: left;
+    padding-left: 3px;
+    padding-top: 5px;
+}
+.d{
+padding-top: 20px;
+padding-left:90px ;
+padding-right:90px;
+margin-left: 200px;
+margin-right: 200px;
+}
+.lien{
+    padding: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.bon{
+    padding-top:  20px;
+    margin-bottom: 0px;
+    display: flex;
+justify-content: space-between;
+}
+.h2{
+    padding-top:  20px;
+    margin-left: 5px;
+    text-align: left;
+}
+.orga{
+    display: flex;
+    justify-content: center;
+    gap: 140px;
+    padding-top: 40px;
+    margin-right: 200px;
+    margin-left: 200px;
+    
+
+}
+.de{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        gap: 30px;
+       
+    
+}
+.di{
+     padding-left: 100px;
+        padding-right: 100px;
+}
+.img{
+    margin-top: 0%;
+}
+
+

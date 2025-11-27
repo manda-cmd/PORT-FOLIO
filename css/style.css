@@ -2,19 +2,25 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Poppins;
+    font-family:Montserrat;
 
 }
 .barre_de_navigation{
     display: flex;
-    background-color: rgb(255, 250, 252);
+    background-color: oklab(99.405% 0 -0.00011);
     justify-content: space-between;
-    align-items: center;
+  
+    gap: px;
+    padding-left: 144px;
+    padding-right: 120px;
+
+
+
 
 }
 .partie{
     display: flex;
-    gap: 15px;
+    gap: 30px;
     
 
 }
@@ -44,15 +50,15 @@ parent1{
 }
 .logo{
     margin-top: 0px;
-    padding-top: 0;
+    padding-top: 29px;
 }
 .réalisation{
     display: flex;
-    padding-bottom: 5.2% ;
+    padding-bottom: 1.5% ;
     background-color: rgb(252, 225, 243);
     text-align: left;
-    padding-left: 80px;
-
+    padding-left: 80px;padding-top: -100ch;
+margin-bottom:0px
   
 }
 .para{
@@ -65,6 +71,7 @@ display: flex;
 flex-direction: column;
 gap: 10px;
     
+    
 
 }
 .image{
@@ -73,6 +80,7 @@ gap: 10px;
 height: 100px;
 padding-top: 15px;
 margin-left: 40px;
+
 
 }
 .projet{
@@ -83,16 +91,19 @@ margin-left: 40px;
 }
 .contenu{
     justify-content: center;
-    padding-left: 300px;
-    padding-right:300px ;
+    padding-left: 250px;
+    padding-right:250px ;
     text-align: center;
-    font-size: small;
+    font-size:medium;
+    padding-top: 5ch;
+    padding-bottom: 3ch;
 }
 .propo{
     background-color: black;
     color: aliceblue;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    height: 600px;
 
 }
 .h3{
@@ -108,18 +119,16 @@ margin-left: 40px;
 .h{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(250, 177, 211);
-    padding-left: 20px;
+    padding: 20px;
     padding-right: 20px;
     margin-bottom: 2px;
-    font-size: large;
+
 }
 .p{
     font-family: Arial, Helvetica, sans-serif;
 }
 img{
-    display:block;
-    vertical-align: top;
-    margin: 0;
+    
 }
 .par{
 justify-content: center;
@@ -151,6 +160,8 @@ justify-content: center;
 padding: 50px;
 background:-o-repeating-linear-gradient(to bottom, pink
  25%, red 75%);
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+
 
 }
 .vi{
@@ -219,7 +230,10 @@ justify-content: space-between;
 }
 .img{
     margin: 0%;
-    padding-left: 30cap;
+   padding-right:100px ;
+    display: flex;
+
+gap: 20px;
 }
 #btn-1{
     color: rgb(245, 248, 252);
@@ -228,8 +242,8 @@ justify-content: space-between;
     border-radius:5px ;
     margin: 20px;
      padding: 15px;
-    margin-left:10px ;
-     margin-right: 10px;
+    margin-left:20px ;
+     
 }
 #cv{
     color: rgb(244, 247, 250);
@@ -238,7 +252,9 @@ justify-content: space-between;
     border-radius: 5px;
     padding: 10px;
 }
-.or{ background-color: aqua;}
+.or{
+
+}
 
 
 #réel{
@@ -264,7 +280,28 @@ body{
 h1{
     font-size: 4ch;
 }
+span{
+    color: rgb(105, 81, 245);
+}
+.x{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0ch;
+}
+.mi{
+    padding-top: 29px;
 
+}
+.c{
+    padding-right: 0ch;
+}
+.s{
+    padding-top: 2ch;
+}
+progress{
+
+}
 
 
 

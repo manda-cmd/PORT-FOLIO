@@ -8,13 +8,54 @@
     display: flex;
     padding-left: 0;
     margin-left: 0;
-    background-color: aqua;
-    gap: 100px;
+
+    gap: 50px;
     padding-right:140px ;
     text-align: left;
     align-items: center;
     height: 632px;
 }
-.form, .contact{
+.form{
+   
+    width: 500px;
+    height:500px ;
+
+}
+ .contact{
     
+    height:600px;
+    width: 500px;
+    padding-top: 120px;
+
+    
+}
+.form{
+    padding-top: 40px;
+}
+.aro{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+.sad{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-top:50px ;
+    margin-bottom: 60px;
+}
+.ari{
+    display: flex;
+    gap: 30px;
+}
+button{
+    background-color: black;
+    color: rgb(252, 254, 255);
+    border-radius: 5%;
+    padding-left:  5ch;
+    padding-right: 5ch;
+    padding-top: 2ch;
+    padding-bottom: 2ch;
+}.ola{
+padding-top: 3ch;
 }

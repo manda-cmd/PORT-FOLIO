@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Montserrat;
+}
+.d{
+padding-top: 20px;
+padding-left:90px ;
+padding-right:90px;
+margin-left: 200px;
+margin-right: 200px;
+}
+
+.conteneur{
+padding: 50px;
+background:-o-repeating-linear-gradient(to bottom, pink
+ 25%, red 75%);
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+.vi{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.lien{
+    padding: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.bon{
+    padding-top:  20px;
+    margin-bottom: 0px;
+    display: flex;
+justify-content: space-between;
+}
+.h2{
+    padding-top:  20px;
+    margin-left: 5px;
+    text-align: left;
+}
+
+.vid{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+ 
+}
+.rea {
+    text-align: center;
+    align-items: center; 
+} 
+   

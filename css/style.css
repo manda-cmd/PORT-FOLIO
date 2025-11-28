@@ -82,129 +82,14 @@ padding-top: 15px;
 margin-left: 40px;
 
 
-}
-.projet{
-    display: flex;
-    justify-content: center;
-    gap: 220px;
-    text-align: center;
-}
-.contenu{
-    justify-content: center;
-    padding-left: 250px;
-    padding-right:250px ;
-    text-align: center;
-    font-size:medium;
-    padding-top: 5ch;
-    padding-bottom: 3ch;
-}
-.propo{
-    background-color: black;
-    color: aliceblue;
-    padding-top: 80px;
-    padding-bottom: 80px;
-    height: 600px;
-
-}
-.h3{
-    margin-left: 560px;
-    margin-right: 80px ;
-
-}
-.p2{
-    margin: 0%;
-    padding: 0%;
-    box-sizing: border-box;
-}
-.h{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: rgb(250, 177, 211);
-    padding: 20px;
-    padding-right: 20px;
-    margin-bottom: 2px;
-
-}
-.p{
-    font-family: Arial, Helvetica, sans-serif;
-}
 img{
     
 }
 .par{
 justify-content: center;
-}
-.services{
-    text-align: center;
 
-}
-#services{
-    padding:50px ;
-
-}
-.in{
-    display: flex;
-}
-.vid{
-    display: flex;
-    text-align: center;
-    justify-content: center;
- 
-}
-.rea{
-    text-align: center;
-    align-items: center;
 
        
-}
-.conteneur{
-padding: 50px;
-background:-o-repeating-linear-gradient(to bottom, pink
- 25%, red 75%);
- font-family: Verdana, Geneva, Tahoma, sans-serif;
-
-
-}
-.vi{
-    display: flex;
-    justify-content: center;
-    text-align: center;
-}
-.icone{
-    display: flex;
-    flex-direction: column;
-    padding: 60px;
-    gap: 20px;
-    text-align: left;
-    padding-top: 30px;
-}
-.pa{
-    
-    text-align: left;
-    padding-left: 3px;
-    padding-top: 5px;
-}
-.d{
-padding-top: 20px;
-padding-left:90px ;
-padding-right:90px;
-margin-left: 200px;
-margin-right: 200px;
-}
-.lien{
-    padding: 40px;
-    padding-left: 30px;
-    padding-right: 30px;
-}
-.bon{
-    padding-top:  20px;
-    margin-bottom: 0px;
-    display: flex;
-justify-content: space-between;
-}
-.h2{
-    padding-top:  20px;
-    margin-left: 5px;
-    text-align: left;
 }
 .orga{
     display: flex;

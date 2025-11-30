@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Montserrat;
+}
+ .image{
+    display: flex;
+    gap: 3ch;
+    justify-content: center;
+    padding-top: 4ch;
+    padding-bottom: 10ch;
+    
+ }
+ .ses{
+ display: flex;
+ font-size: medium;
+ gap:5ch;
+ padding-top: 10ch;
+ padding-left: 20ch;
+ padding-right: 10ch;
+ color: rgb(255, 255, 255);
+ align-items: center;
+ }
+ .tout{
+    background-color: black;
+    height: 58ch;
+ }
+ .img{
+    color: rgb(245, 248, 250);
+    text-align: center;
+    display: flex;
+    flex-direction:column;
+    padding-top:20ch;
+    justify-content: center;
+
+ }
+ P{
+    font-size: x-large;
+ }

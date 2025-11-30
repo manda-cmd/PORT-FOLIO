@@ -1,3 +1,48 @@
-*{
+*{margin-top: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Montserrat ;
+}
+.di{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    font-size: large;
+    padding-left:15ch ;
+    padding-right: 15ch;
+    gap: 2ch;
+}
+.orga{
+    display: flex;
+    gap: 10ch;
+    justify-content: center;
+    margin-top: 6ch;
+}
+.pro{
+    width:40ch;
+    height:9px;
+    background-color: rgb(205, 211, 209);
+    border-radius:10px;
+    overflow: hidden;
     
+}
+.progress{
+    height: 100%;
+    background-color: black;
+    border-radius:10px;
+}
+p{
+    margin-top:1ch;
+}
+h2{
+    font-size: xx-large;
+}
+.div{
+    display: flex;
+    align-items: center;
+    gap:2ch;
+}
+#di{
+    font-size: xx-large;
 }

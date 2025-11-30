@@ -9,184 +9,98 @@
     display: flex;
     background-color: oklab(99.405% 0 -0.00011);
     justify-content: space-between;
-  
-    gap: px;
-    padding-left: 144px;
-    padding-right: 120px;
-
-
-
-
+  align-items: center;
+    padding-left: 135px;
+    padding-right: 115px;
+    padding-bottom: 2ch;
 }
 .partie{
-    display: flex;
-    gap: 30px;
-    
-
-}
-parent1{
-    margin:0 ;
-    padding: 0;
-    border-radius: 5dvh;
-    width: 1300px;
-    margin-left: auto;
-    margin-right: auto;
-    padding-top: 0%;
-    padding-bottom: 0%;
-
-}
-.boutton{
-    display: flex;
-    padding: 20px 50px;
-    gap: 20px;
-    justify-content: left;
-    padding-bottom: 40px;
-    font-size: 16px;
-    cursor: pointer;
-
-}
-.btn{
-    margin-top: 5px;
-}
-.logo{
-    margin-top: 0px;
-    padding-top: 29px;
+display: flex;
+gap: 30px;
+font-size: large;
 }
 .réalisation{
     display: flex;
-    padding-bottom: 1.5% ;
-    background-color: rgb(252, 225, 243);
     text-align: left;
-    padding-left: 80px;padding-top: -100ch;
-margin-bottom:0px
-  
+    padding-left: 10ch;
+    padding-bottom: 0ch;
+    gap: 13ch;
 }
 .para{
-    height:auto;;
-    width: 76%;
-    text-align: left;
-    margin-top:70px ;
-padding-left: 10px;
-display: flex;
-flex-direction: column;
-gap: 10px;
-    
-    
-
-}
-.image{
-    padding-left: auto;
-    padding-right:240px;
-height: 100px;
-padding-top: 15px;
-margin-left: 40px;
-
-
-img{
-    
-}
-.par{
-justify-content: center;
-
-
-       
-}
-.orga{
     display: flex;
-    justify-content: center;
-    gap: 140px;
-    padding-top: 40px;
-    margin-right: 200px;
-    margin-left: 200px;
-    
-
-}
-.de{
-        display: flex;
-        flex-direction: column;
-        text-align: center;
-        gap: 30px;
-       
-    
-}
-.di{
-     padding-left: 100px;
-        padding-right: 100px;
-}
-.img{
-    margin: 0%;
-   padding-right:100px ;
-    display: flex;
-
-gap: 20px;
-}
-#btn-1{
-    color: rgb(245, 248, 252);
-    background-color: black;
-    border-color: black;
-    border-radius:5px ;
-    margin: 20px;
-     padding: 15px;
-    margin-left:20px ;
-     
-}
-#cv{
-    color: rgb(244, 247, 250);
-    background-color: black;
-    border-color: black;
-    border-radius: 5px;
-    padding: 10px;
-}
-.or{
-
-}
-
-
-#réel{
-    background-color: rgb(255, 255, 255);
-    border-color: rgb(131, 100, 126);
-    border-radius: 5px;
-    padding: 10px;
+    flex-direction: column;
+    width: 500px;
+ 
 }
 .nom{
     display: flex;
     flex-direction: column;
-    gap: 16px;
-    padding-left:50px ;
-    padding-top: 0px;
-}
-.body{
-    padding: 0%;
+    gap: 2ch;
+    padding-top: 5ch;
+    padding-left: 3ch;
+    margin-top: 4ch;
 }
 body{
-    height: auto;
-    width: auto;
+    height: 200px;
+    background-color: rgb(250, 234, 252);
+    margin: auto;
+    padding: auto;
+    padding-top: 0ch;
 }
-h1{
-    font-size: 4ch;
+.image{
+margin-right: 10ch;
+
+}
+#cv{
+    margin-left: 3ch;
+    padding-left: 4ch;
+    padding-right: 5ch;
+    padding-top: 1ch;
+    padding-bottom: 1ch;
+    border-radius: 10px;
+    font-size: large;
+}
+.boutton{
+    display: flex;
+    gap: 2ch;
+    margin-top: 2ch;
+}
+#réel{
+    padding-right: 2ch;
+    padding-left: 2ch;
+    padding-top: 1ch;
+    padding-bottom: 1ch;
+    background-color: rgb(250, 247, 243);
+    border-radius:10px;
+    font-size: large;
+    background-color: rgb(56, 56, 56);
+    color: rgb(255, 255, 255);
 }
 span{
-    color: rgb(105, 81, 245);
+    color: rgb(172, 98, 241);
+    font-size:1.7cap
 }
-.x{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 0ch;
+.e{
+    font-size:2cap 
 }
-.mi{
-    padding-top: 29px;
-
+.paragraphe{
+    font-size: large;
 }
-.c{
-    padding-right: 0ch;
+#btn-1{
+     padding-right: 2ch;
+    padding-left: 2ch;
+    padding-top: 1ch;
+    padding-bottom: 1ch;
+    background-color: rgb(250, 247, 243);
+    border-radius:10px;
+    font-size: large;
+    background-color: rgb(56, 56, 56);
+    color: rgb(255, 255, 255);
 }
-.s{
-    padding-top: 2ch;
+.img{
+    background-color:  oklab(99.405% 0 -0.00011);
+    padding-left: 28ch;
 }
-progress{
-
+.logo{
+    padding-left: 0ch;
 }
-
-
-

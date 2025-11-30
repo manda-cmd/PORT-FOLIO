@@ -19,7 +19,6 @@
    
     width: 500px;
     height:500px ;
-
 }
  .contact{
     
@@ -54,8 +53,20 @@ button{
     border-radius: 5%;
     padding-left:  5ch;
     padding-right: 5ch;
-    padding-top: 2ch;
-    padding-bottom: 2ch;
+    padding-top: 1ch;
+    padding-bottom: 1ch;
+    font-size: large;
 }.ola{
 padding-top: 3ch;
+}
+.con{
+    font-size: large;
+}
+textarea{
+    padding-top: 2ch;
+    padding-left: 2ch;
+}
+textarea::placeholder{
+    color: blue;
+    font-size: large;
 }

@@ -4,50 +4,29 @@
     box-sizing: border-box;
     font-family: Montserrat;
 }
-
-}
 .projet{
     display: flex;
-    justify-content: center;
-    gap: 220px;
-    text-align: center;
+    gap: 9ch;
 }
-.contenu{
-    justify-content: center;
-    padding-left: 250px;
-    padding-right:250px ;
-    text-align: center;
-    font-size:medium;
-    padding-top: 5ch;
-    padding-bottom: 3ch;
-}
-.propo{
-    background-color: black;
-    color: aliceblue;
-    padding-top: 80px;
-    padding-bottom: 80px;
-    height: 600px;
-    display: flex;
-
-}
-.h3{
-    margin-left: 560px;
-    margin-right: 80px ;
-
-}
-.p2{
-    margin: 0%;
-    padding: 0%;
-    box-sizing: border-box;
-}
-.h{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: rgb(250, 177, 211);
-    padding: 20px;
-    padding-right: 20px;
-    margin-bottom: 2px;
-
-}
-.p{
-    font-family: Arial, Helvetica, sans-serif;
+#moi{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: large;
+    gap: 10ch;
+    padding-top: 8ch;
+    background-color: rgb(26, 25, 25);
+    color: rgb(255, 255, 255);
+    .v{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        gap: 3ch;
+    }
+    .h{
+        font-size:6ch;
+        text-align: center;
+        color: rgb(252, 158, 216);
+    }
 }
